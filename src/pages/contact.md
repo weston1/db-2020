@@ -5,6 +5,10 @@ menus:
     title: Contact
     weight: 5
 template: contact
----
+subtitle: Use this form to reach me via email.
+img_path: ''
 
-Hi there! Thank you so much for your interest in working together. Please fill the contact form below or send us an email at [example@example.com](mailto:example@example.com).
+---
+# Interested in my work?
+
+I would love to hear about your next project.
