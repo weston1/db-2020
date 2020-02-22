@@ -10,16 +10,20 @@ sections:
     potenti. Nulla quis odio facilisis, finibus elit in, condimentum lacus. Nulla
     non metus in orci rutrum mollis. Proin et tincidunt libero. [Nulla](https://google.com/)
     facilisi.
-- type: portfolioblock
-  template: portfolioblock
-  title: Recent Work
-  section_id: latest-projects
-  component: PortfolioBlock
-  subtitle: An optional subtitle of the section
-  layout_style: mosaic
-  num_projects_displayed: 6
-  view_all_text: View All
-  view_all_url: portfolio/index.html
+- template: contentblock
+  component: ContentBlock
+  type: contentblock
+  title: Journalism
+  section_id: journalism-block
+  subtitle: Sed imperdiet euismod velit. Suspendisse potenti.
+  content: Sed imperdiet euismod velit. Suspendisse potenti. Nulla quis odio facilisis,
+    finibus elit in, condimentum lacus. Sed condimentum felis et quam sagittis consequat.
+    Donec et leo ligula. Proin condimentum lobortis tempor. Nulla non metus in orci
+    rutrum mollis. Proin et tincidunt libero. Nulla facilisi.
+  image: "/images/wolf2.jpg"
+  actions:
+  - label: MORE
+    url: "/portfolio"
 - type: servicesblock
   template: servicesblock
   title: What We Do
@@ -42,16 +46,16 @@ sections:
     content: Aliquam pulvinar, orci ac scelerisque tempus, felis leo sagittis justo,
       sit amet condimentum lorem nibh vel quam. Duis consectetur lorem ipsum, non
       efficitur urna viverra et.
-- type: postsblock
-  template: postsblock
-  title: Latest from the Blog
-  section_id: latest-posts
-  component: PostsBlock
+- type: portfolioblock
+  template: portfolioblock
+  title: Recent Work
+  section_id: latest-projects
+  component: PortfolioBlock
   subtitle: An optional subtitle of the section
-  num_posts_displayed: 2
-  actions:
-  - label: View Blog
-    url: blog/index.html
+  layout_style: mosaic
+  num_projects_displayed: 6
+  view_all_text: View All
+  view_all_url: portfolio/index.html
 - type: contactblock
   template: contactblock
   title: Contact Us
