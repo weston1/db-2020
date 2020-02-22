@@ -3,8 +3,9 @@
   "color_scheme": "light",
   "accent_color": "pink",
   "header": {
-    "title": "Exto",
-    "has_nav": true
+    "title": "DB",
+    "has_nav": true,
+    "logo_img": "/images/logo.svg"
   },
   "footer": {
     "content": "&copy; Stackbit-Exto. All rights reserved.",
