@@ -1,6 +1,6 @@
 ---
-title: Project Title 1
-subtitle: Optional Project Subtitle
+title: DOTS Campaign
+subtitle: Submitted nine photos for Department of Transportation
 date: 2019-05-10
 thumb_img_path: "/images/DSC_7372-Edit.JPG"
 content_img_path: "/images/DSC_7372-Edit.JPG"
