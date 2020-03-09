@@ -12,7 +12,7 @@ sections:
   title: Recent Work
   section_id: latest-projects
   component: PortfolioBlock
-  subtitle: Primarily photos from the last year
+  subtitle: ''
   layout_style: mosaic
   num_projects_displayed: 6
   view_all_text: View All
