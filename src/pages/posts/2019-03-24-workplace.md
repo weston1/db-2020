@@ -10,6 +10,10 @@ template: post
 subtitle: ''
 
 ---
+Published article found [here](https://www.greenbeltonline.org/local-churches-and-the-lgbtq-community-of-greenbelt/).
+
+***
+
 LGBTQ people have struggled to find acceptance within major religions for centuries, but in Greenbelt, created during the New Deal as a solution for Depression-Era city slums, community members are fostering a more inclusive religious environment. Throughout the area, LGBTQ-affirming religious communities are becoming increasingly commonplace. Greenbelt Community Church, St. George’s Episcopal Church in Glenn Dale, and Paint Branch Unitarian Universalist Church in Adelphi welcome all faith-seekers regardless of sexual orientation or gender identity.
 
 Shifting demographics play a role in the push for inclusion. As younger generations drift further from faith communities, religious congregations seek more ways to reel them in. “The future is diversity,” Hillary Howes, the president of [GreenBeLT Pride](https://www.facebook.com/GreenbeltPride/), tells me during an interview at the New Deal Cafe.
