@@ -1,5 +1,5 @@
 ---
-title: Photojournalism in Oaxaca, Mexico
+title: Photojournalism in Oaxaca
 subtitle: ''
 date: 2019-01-05
 thumb_img_path: "/images/Drew_Brown_Market-0017-1.JPG"
