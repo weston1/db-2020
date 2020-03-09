@@ -6,9 +6,13 @@ content_img_path: "/images/DSC_3956-1.JPG"
 excerpt: A shape-shifting, yellow blob slowly morphs into an enormous prism. Moments
   later, a grey hand swoops in, snatching the golden mass from its resting place.
 template: post
-subtitle: ''
+subtitle: Original article found here
 
 ---
+Published article found [here](https://www.greenbeltonline.org/how-the-greenbelt-association-for-visual-arts-inspires-young-artists/).
+
+***
+
 A shape-shifting, yellow blob slowly morphs into an enormous prism. Moments later, a grey hand swoops in, snatching the golden mass from its resting place. I’m watching “The Big Cheese,” a stop-motion film created in 2003 by then 13-year-old Pallas Bane for her animation class with GAVA ([The Greenbelt Association for the Visual Arts)](http://www.gavaonline.org/). Seated next to me is George Kochell, aka Mr. Geo, Pallas’s former instructor and the current vice president of GAVA. We are watching student animations on Mr. Geo’s desktop in the [Greenbelt Access Television](https://www.greenbeltaccesstv.org/) (GATe) film studio. For many years, GAVA and GATe have coordinated to offer engaging animation courses for youth ages 7-18 across Prince George’s County.
 
 Pallas’ animation is one of several hundred student films produced by GAVA/GATe animation students since 1998. “It’s like a refrigerator drawing for mom and dad,” Mr. Geo tells me as he pulls up the class’s [YouTube channel](https://www.youtube.com/channel/UC8_VZNBjVb_e6D4AwA5E4uw).
