@@ -2,8 +2,8 @@
 title: Washington Blade Photography Summer '19
 subtitle: Capital Pride Festival, Front Runners, Capital Pride Parade, Drag Storytellers
 date: 2019-06-01T00:00:00-04:00
-thumb_img_path: "/images/DSC_0425-1.JPG"
-content_img_path: "/images/DSC_0425-2.JPG"
+thumb_img_path: "/images/blade_cover-2.jpg"
+content_img_path: "/images/blade_cover-3.jpg"
 template: project
 
 ---
