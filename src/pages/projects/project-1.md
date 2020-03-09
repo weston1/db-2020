@@ -1,5 +1,5 @@
 ---
-title: DOTS Campaign
+title: Washington Blade Photography Summer '19
 subtitle: Submitted nine photos for Department of Transportation
 date: 2019-05-10
 thumb_img_path: "/images/DSC_0425-1.JPG"
