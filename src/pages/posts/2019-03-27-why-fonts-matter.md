@@ -9,6 +9,10 @@ template: post
 subtitle: ''
 
 ---
+Published article found [here](https://www.greenbeltonline.org/bringing-authentic-nigerian-cuisine-to-greenbelt/).
+
+***
+
 A big red sign hanging over the entryway tells me I’ve reached my destination: Jodeem African Cuisine. The smell of homemade curry, slow-cooked chicken and fried plantains rolls out through the door. Inside, customers line up, eagerly waiting for their orders. My stomach growls as I eye the menu. How have I not heard of this place before?
 
 Jodeem African Cuisine is an authentic Nigerian restaurant owned and operated by Chuks and Amaka Nonyerem at the [Beltway Plaza Mall](http://www.beltwayplazamall.com/). The [menu](https://www.yelp.com/biz_photos/jodeem-african-cuisine-greenbelt?select=cQsoUwp2AXaaRqNubfBisg) features a wide variety of traditional Nigerian dishes, including Nkwobi, Moi Moi and Egusi soup. Popular are the curry chicken and goat, as well as the Jollof rice—a staple of West African cuisine. The restaurant also caters, and normal business hours are 11:30pm to 10:00pm Monday through Saturday and 1:00pm to 9:00pm on Sunday.
