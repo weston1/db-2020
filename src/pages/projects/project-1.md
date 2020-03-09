@@ -25,4 +25,4 @@ template: project
 
 ![](/images/DSC_1604-2.JPG)
 
-                    ![](/images/blade_cover.jpg) 
+![](/images/blade_cover-5.jpg)  
