@@ -1,6 +1,6 @@
 ---
 title: Portfolio
-subtitle: Primarily photos from the last year
+subtitle: ''
 layout_style: mosaic
 menus:
   main:
