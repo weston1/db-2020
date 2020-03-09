@@ -10,7 +10,7 @@ template: post
 subtitle: ''
 
 ---
-Published article found [here](https://www.greenbeltonline.org/local-churches-and-the-lgbtq-community-of-greenbelt/).
+Original article found [here](https://www.greenbeltonline.org/local-churches-and-the-lgbtq-community-of-greenbelt/).
 
 ***
 
