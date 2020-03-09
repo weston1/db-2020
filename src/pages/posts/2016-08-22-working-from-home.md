@@ -9,7 +9,7 @@ template: post
 subtitle: Original article found here
 
 ---
-Published article found [here](https://www.greenbeltonline.org/how-the-greenbelt-association-for-visual-arts-inspires-young-artists/).
+Original article found [here](https://www.greenbeltonline.org/how-the-greenbelt-association-for-visual-arts-inspires-young-artists/).
 
 ***
 
