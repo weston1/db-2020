@@ -9,7 +9,7 @@ template: project
 ---
 ## Fugoo & Friends
 
-##### [Episode 5](https://drive.google.com/file/d/1rmgTcdNm2HEBen6s9t8RX79SRY6U5Cf8/view?usp=sharing "Fugoo & Friends") Fugoo invites his mysterious friend, Chad to the radio station. Things get out of hand, and Drew wakes up in a state of limbo.
+[Episode 5:](https://drive.google.com/file/d/1uqVKXDTGMQRoQJHhqcu5j4GEVSTfIkKw/view?usp=sharing) 
 
 [Episode 7:](https://drive.google.com/file/d/1rmgTcdNm2HEBen6s9t8RX79SRY6U5Cf8/view?usp=sharing) Melvin returns to the station, but Drew's nowhere in sight.
 
