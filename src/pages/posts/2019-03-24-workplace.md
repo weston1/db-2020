@@ -3,9 +3,9 @@ title: Local Churches and the LGBTQ Community of Greenbelt
 date: 2019-03-24
 thumb_img_path: "/images/DSC_3894.JPG"
 content_img_path: "/images/DSC_3894-1.JPG"
-excerpt: 'Vis accumsan feugiat adipiscing nisl amet adipiscing accumsan blandit accumsan
-  sapien blandit ac amet faucibus aliquet placerat commodo. Antealiquet commodo accumsan
-  vis phasellus adipiscing. '
+excerpt: LGBTQ people have struggled to find acceptance within major religions for
+  centuries, but in Greenbelt, created during the New Deal as a solution for Depression-Era
+  city slums, community members are fostering a more inclusive religious environment.
 template: post
 subtitle: ''
 
