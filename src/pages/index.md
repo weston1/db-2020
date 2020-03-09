@@ -3,7 +3,7 @@ title: DB
 sections:
 - type: heroblock
   template: heroblock
-  title: Welcome! Find my most recent articles, photography, radio shows here.
+  title: Welcome! Find my most recent articles, photography, and radio shows here.
   section_id: hero
   component: HeroBlock
   content: ''
