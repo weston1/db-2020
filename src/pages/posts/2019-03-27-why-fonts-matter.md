@@ -9,7 +9,7 @@ template: post
 subtitle: ''
 
 ---
-Published article found [here](https://www.greenbeltonline.org/bringing-authentic-nigerian-cuisine-to-greenbelt/).
+Original article found [here](https://www.greenbeltonline.org/bringing-authentic-nigerian-cuisine-to-greenbelt/).
 
 ***
 
