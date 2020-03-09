@@ -2,8 +2,8 @@
 title: Photojournalism in Oaxaca, Mexico
 subtitle: ''
 date: 2019-01-05
-thumb_img_path: "/images/Drew_Brown_Capindo-0020.JPG"
-content_img_path: "/images/Drew_Brown_Capindo-0020-1.JPG"
+thumb_img_path: "/images/Drew_Brown_Market-0017-1.JPG"
+content_img_path: "/images/Drew_Brown_Market-0017-2.JPG"
 template: project
 
 ---
@@ -21,10 +21,8 @@ template: project
 
 ![](/images/Drew_Brown_Arrazola-0016.JPG)
 
-![](/images/Drew_Brown_Market-0019.JPG)
+![](/images/Drew_Brown_Arrazola-0015-1.JPG)
 
-![](/images/Drew_Brown_Arrazola-0015.JPG)
+![](/images/DSC_1048-1.JPG)
 
-![](/images/DSC_1048.JPG)
-
-![](/images/Drew_Brown_Market-0017.JPG)
+![](/images/Drew_Brown_Capindo-0020-2.JPG)
