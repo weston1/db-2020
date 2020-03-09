@@ -3,9 +3,8 @@ title: How the Greenbelt Association for Visual Arts Inspires Young Artists
 date: 2016-08-22
 thumb_img_path: "/images/DSC_3956.JPG"
 content_img_path: "/images/DSC_3956-1.JPG"
-excerpt: Interdum posuere lorem ipsum dolor sit amet consectetur. Odio morbi quis
-  commodo odio aenean sed adipiscing diam donec. Vitae congue mauris rhoncus aenean
-  vel elit scelerisque mauris pellentesque.
+excerpt: A shape-shifting, yellow blob slowly morphs into an enormous prism. Moments
+  later, a grey hand swoops in, snatching the golden mass from its resting place.
 template: post
 subtitle: ''
 
