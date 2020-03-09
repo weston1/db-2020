@@ -1,6 +1,6 @@
 ---
 title: How the Greenbelt Association for Visual Arts Inspires Young Artists
-date: 2016-08-22
+date: 2019-06-24T00:00:00-04:00
 thumb_img_path: "/images/DSC_3956.JPG"
 content_img_path: "/images/DSC_3956-1.JPG"
 excerpt: A shape-shifting, yellow blob slowly morphs into an enormous prism. Moments
