@@ -1,5 +1,5 @@
 ---
-title: Fugoo & Friends on WMUC Digital
+title: Fugoo & Friends on WMUC Radio
 subtitle: ''
 date: 2019-04-30
 thumb_img_path: "/images/Fugoo.JPG"
