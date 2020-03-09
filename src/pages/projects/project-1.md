@@ -1,7 +1,7 @@
 ---
 title: Washington Blade Photography Summer '19
-subtitle: Submitted nine photos for Department of Transportation
-date: 2019-05-10
+subtitle: Capital Pride Festival, Front Runners, Capital Pride Parade, Drag Storytellers
+date: 2019-06-01T00:00:00-04:00
 thumb_img_path: "/images/DSC_0425-1.JPG"
 content_img_path: "/images/DSC_0425-2.JPG"
 template: project
