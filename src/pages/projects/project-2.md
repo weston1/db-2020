@@ -1,6 +1,6 @@
 ---
 title: Fugoo & Friends on WMUC Digital
-subtitle: Kaleidoscopic Sound Collage and Absurdity
+subtitle: ''
 date: 2019-04-30
 thumb_img_path: "/images/Fugoo.JPG"
 content_img_path: "/images/Fugoo-1.JPG"
