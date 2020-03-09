@@ -1,6 +1,6 @@
 ---
 title: Washington Blade Summer '19
-subtitle: Capital Pride Festival, Front Runners, Capital Pride Parade, Drag Storytellers
+subtitle: ''
 date: 2019-06-01T00:00:00-04:00
 thumb_img_path: "/images/DSC_0425-6.JPG"
 content_img_path: "/images/DSC_0425-7.JPG"
