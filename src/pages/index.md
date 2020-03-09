@@ -6,10 +6,7 @@ sections:
   title: Welcome! Find my most recent articles, photography, radio shows here.
   section_id: hero
   component: HeroBlock
-  content: Sed imperdiet [euismod](https://drewbrown.co/about/) velit. [Suspendisse](https://drewbrown.co/photography)
-    potenti. Nulla quis odio facilisis, finibus elit in, condimentum lacus. Nulla
-    non metus in orci rutrum mollis. Proin et tincidunt libero. [Nulla](https://google.com/)
-    facilisi.
+  content: ''
 - template: contentblock
   component: ContentBlock
   type: contentblock
